@@ -5,5 +5,5 @@
 ### Bridge
 
 <p align="center">
-  <img src="./diagrama/Bridge.jpg" style="width: 600px" alt="Bridge">
+  <img src="./diagrama/Bridge.jpg" style="width: 800px" alt="Bridge">
 </p>
